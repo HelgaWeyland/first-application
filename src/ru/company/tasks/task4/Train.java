@@ -1,9 +1,8 @@
 package ru.company.tasks.task4;
 
-import ru.company.tasks.task4.interfaces.Driveable;
 import ru.company.tasks.task4.interfaces.Rideable;
 
-public class Train extends Vehicle implements Rideable, Driveable {
+public class Train extends Vehicle implements Rideable {
 
     public Train(String name, Color color) {
         super(name, color);
@@ -21,12 +20,13 @@ public class Train extends Vehicle implements Rideable, Driveable {
     }
 
     @Override
-    public void ride() {
+    public void drive() {
 
     }
 
     @Override
-    public void drive() {
+    public void ride() {
 
     }
+
 }

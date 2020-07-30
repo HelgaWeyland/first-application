@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d83d79e6-e2c7-4064-a7ef-b078afe56c97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Driveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Rideable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Swimable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Train.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,30 +103,42 @@
       <option name="project" value="LOCAL" />
       <updated>1595948390432</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Complete 4 task">
+      <created>1596125431295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596125431295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete 1-3 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete 1-3 tasks" />
+    <MESSAGE value="Complete 4 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete 4 task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1596119181296">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1596125839550">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596119181296" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596125839550" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595941639219">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595941639219" />
-    <state x="273" y="0" key="CommitChangelistDialog2" timestamp="1595948388893">
+    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2" timestamp="1596125428612">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595948388893" />
+    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596125428612" />
     <state width="398" height="438" key="DebuggerActiveHint" timestamp="1595501445620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="398" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1595501445620" />
+    <state x="85" y="50" key="DiffContextDialog" timestamp="1596125388174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="85" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1596125388174" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1595949016803">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -192,10 +187,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595949112129" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595948422625">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596125436290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595948422625" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596125436290" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595947836137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -208,6 +203,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="96" width="538" height="495" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1596110031017" />
+    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1596125472667">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596125472667" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1596043503432">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
