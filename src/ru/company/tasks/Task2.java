@@ -1,4 +1,4 @@
-package ru.company;
+package ru.company.tasks;
 
 public class Task2 {
     public static void execute() {

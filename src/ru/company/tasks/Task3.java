@@ -1,4 +1,4 @@
-package ru.company;
+package ru.company.tasks;
 
 import java.util.ArrayList;
 import java.util.Arrays;
