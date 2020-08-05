@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d83d79e6-e2c7-4064-a7ef-b078afe56c97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task4/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,27 +115,35 @@
       <option name="project" value="LOCAL" />
       <updated>1596125431295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Remove redundant">
+      <created>1596125985236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596125985237</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete 1-3 tasks" />
     <MESSAGE value="Complete 4 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete 4 task" />
+    <MESSAGE value="Remove redundant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove redundant" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1596125839550">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1596485712925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596125839550" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596485712925" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595941639219">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595941639219" />
-    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2" timestamp="1596125428612">
+    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2" timestamp="1596125983277">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596125428612" />
+    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596125983277" />
     <state width="398" height="438" key="DebuggerActiveHint" timestamp="1595501445620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -143,22 +156,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595949016803" />
-    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1596124992311">
+    <state width="1237" height="57" key="GridCell.Tab.0.bottom" timestamp="1596619623606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596124992311" />
-    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1596124992311">
+    <state width="1237" height="57" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596619623606" />
+    <state width="1237" height="57" key="GridCell.Tab.0.center" timestamp="1596619623606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596124992311" />
-    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1596124992311">
+    <state width="1237" height="57" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596619623606" />
+    <state width="1237" height="57" key="GridCell.Tab.0.left" timestamp="1596619623605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596124992311" />
-    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1596124992311">
+    <state width="1237" height="57" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596619623605" />
+    <state width="1237" height="57" key="GridCell.Tab.0.right" timestamp="1596619623606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596124992311" />
+    <state width="1237" height="57" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596619623606" />
     <state width="1237" height="200" key="GridCell.Tab.1.bottom" timestamp="1595940245466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -187,10 +200,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595949112129" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596125436290">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596125991273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596125436290" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596125991273" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595947836137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -199,18 +212,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1595424469490" />
-    <state x="371" y="96" width="538" height="495" key="extract.method.dialog" timestamp="1596110031017">
+    <state x="371" y="96" width="538" height="495" key="extract.method.dialog" timestamp="1596486165996">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="96" width="538" height="495" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1596110031017" />
+    <state x="371" y="96" width="538" height="495" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1596486165996" />
     <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1596125472667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596125472667" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1596043503432">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1596485750586">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1596043503432" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1596485750586" />
     <state x="303" y="1" key="search.everywhere.popup" timestamp="1595941801573">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

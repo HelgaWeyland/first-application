@@ -5,6 +5,7 @@ import ru.company.tasks.Task1;
 import ru.company.tasks.Task2;
 import ru.company.tasks.Task3;
 import ru.company.tasks.task4.Task4;
+import ru.company.tasks.task5.Task5;
 
 public class Main {
 
@@ -28,6 +29,11 @@ public class Main {
 
         System.out.println("Task 4: ");
         Task4.execute();
+
+        System.out.println(DELIMITER);
+
+        System.out.println("Task 5: ");
+        Task5.execute();
     }
 }
 
