@@ -4,6 +4,10 @@ import java.util.*;
 
 public class Task5 {
 
+    public static final String CATS = "Cats";
+    public static final String DOGS = "Dogs";
+    public static final String DUCKS = "Ducks";
+
     private static Map<String, List<Animal>> animals;
 
     public static void execute() {
@@ -19,19 +23,9 @@ public class Task5 {
     }
 
     private static void filterAnimalsByAge(int age) {
-        for (Map.Entry<String, List<Animal>> entry : animals.entrySet()) {
-            List<Animal> filteredList = new ArrayList<>();
-
-            String key = entry.getKey();
-            List<Animal> animalList = entry.getValue();
-
-            for (Animal animal : animalList) {
-                if (animal.getAge() <= age) {
-                    filteredList.add(animal);
-                }
-            }
-
-            animals.put(key, filteredList);
+        for (Map.Entry<String, List<Animal>> next : animals.entrySet()) {
+            List<Animal> value = next.getValue();
+            value.removeIf(animal -> animal.getAge() > age);
         }
     }
 
@@ -41,34 +35,39 @@ public class Task5 {
             List<Animal> animalList = entry.getValue();
 
             System.out.println(key + ":");
-            animalList.forEach(System.out::println);
+            for (Animal animal : animalList) {
+                final String baseString = "Name: " + animal.getName() + ", Age: " + animal.getAge();
+                if (DUCKS.equals(key)) {
+                    System.out.println(baseString + ", Sex: " + animal.getSex());
+                }
+                if (CATS.equals(key) || DOGS.equals(key)) {
+                    System.out.println(baseString + ", Color: " + animal.getColor());
+                }
+            }
         }
     }
 
     private static Map<String, List<Animal>> getAnimalsMap() {
         Map<String, List<Animal>> animals = new HashMap<>();
 
-        List<Animal> ducks = List.of(
-                new Duck(1, "Huey", "Grey"),
-                new Duck(2, "Dewey", "white"),
-                new Duck(3, "Louie", "Black")
-        );
+        List<Animal> ducks = new ArrayList<>();
+        ducks.add(new Duck(1, "Huey", "Grey", Sex.MALE));
+        ducks.add(new Duck(2, "Dewey", "white", Sex.MALE));
+        ducks.add(new Duck(3, "Louie", "Black", Sex.MALE));
 
-        List<Animal> cats = List.of(
-                new Cat(5, "Behemoth", "Black"),
-                new Cat(7, "Tom", "Grey"),
-                new Cat(2, "Garfield", "Ginger")
-        );
+        List<Animal> cats = new ArrayList<>();
+        cats.add(new Cat(5, "Behemoth", "Black"));
+        cats.add(new Cat(7, "Tom", "Grey"));
+        cats.add(new Cat(2, "Garfield", "Ginger"));
 
-        List<Animal> dogs = List.of(
-                new Dog(13, "Lassy", "White"),
-                new Dog(2, "Lady", "Brown"),
-                new Dog(6, "Jake", "Yellow")
-        );
+        List<Animal> dogs = new ArrayList<>();
+        dogs.add(new Dog(13, "Lassy", "White"));
+        dogs.add(new Dog(2, "Lady", "Brown"));
+        dogs.add(new Dog(6, "Jake", "Yellow"));
 
-        animals.put("Cats", cats);
-        animals.put("Dogs", dogs);
-        animals.put("Ducks", ducks);
+        animals.put(CATS, cats);
+        animals.put(DOGS, dogs);
+        animals.put(DUCKS, ducks);
 
         return animals;
     }

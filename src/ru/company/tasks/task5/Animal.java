@@ -5,6 +5,14 @@ public class Animal {
     private int age;
     private String name;
     private String color;
+    private Sex sex;
+
+    public Animal(int age, String name, String color, Sex sex) {
+        this.age = age;
+        this.name = name;
+        this.color = color;
+        this.sex = sex;
+    }
 
     public Animal(int age, String name, String color) {
         this.age = age;
@@ -36,8 +44,16 @@ public class Animal {
         this.color = color;
     }
 
+    public Sex getSex() {
+        return this.sex;
+    }
+
+    public void setSex(Sex sex) {
+        this.sex = sex;
+    }
+
     @Override
     public String toString() {
-        return "Name: " + this.name + ", Age: " + this.age + ", Color: " + this.color;
+        return "Name: " + this.name + ", Age: " + this.age + ", Color: " + this.color + ", Sex: " + this.sex;
     }
 }
