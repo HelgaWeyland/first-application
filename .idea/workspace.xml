@@ -2,13 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d83d79e6-e2c7-4064-a7ef-b078afe56c97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/interfaces/Driveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/interfaces/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/interfaces/Rideable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task4/interfaces/Swimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task5/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task5/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task5/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/company/tasks/task5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/company/tasks/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/company/tasks/task5/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/first-application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Boat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Driveable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Rideable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task4/interfaces/Swimable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Sex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/company/tasks/task5/Task5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +87,19 @@
         <option value="Interface" />
         <option value="Class" />
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1f2kpW97LhPkkFMAMPkEo2ooCbb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,6 +111,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -44,11 +120,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.company.tasks" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.Task6">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.company.Main" />
       <module name="first-application" />
@@ -71,7 +156,7 @@
       <module name="first-application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.company.tasks.*" />
+          <option name="PATTERN" value="ru.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,13 +164,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in first-application" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-application" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.company.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.company.tasks" />
+      <option name="MAIN_CLASS_NAME" value="ru.company.tasks.Task6" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6.shouldReturnVoid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.company.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.company.tasks" />
+      <option name="MAIN_CLASS_NAME" value="ru.company.tasks.Task6" />
+      <option name="METHOD_NAME" value="shouldReturnVoid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Testik" />
+      <item itemvalue="JUnit.All in first-application" />
+      <item itemvalue="JUnit.Task6" />
+      <item itemvalue="JUnit.Task6.shouldReturnVoid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task6" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in first-application" />
+        <item itemvalue="JUnit.Task6.shouldReturnVoid" />
         <item itemvalue="Application.Testik" />
       </list>
     </recent_temporary>
@@ -129,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596620806271</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixes after review">
+      <created>1596665851591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596665851591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,21 +274,34 @@
     <MESSAGE value="Complete 4 task" />
     <MESSAGE value="Remove redundant" />
     <MESSAGE value="complete task 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete task 5" />
+    <MESSAGE value="fixes after review" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes after review" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596812925023">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1596812925023" />
     <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1596485712925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596485712925" />
+    <state x="366" y="30" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596809994654">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="30" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1596809994654" />
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596810512389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1596810512389" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595941639219">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595941639219" />
-    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2" timestamp="1596620804164">
+    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2" timestamp="1596665849408">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596620804164" />
+    <state x="21" y="0" width="1167" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596665849408" />
     <state width="398" height="438" key="DebuggerActiveHint" timestamp="1595501445620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -164,22 +314,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595949016803" />
-    <state width="1237" height="143" key="GridCell.Tab.0.bottom" timestamp="1596665747667">
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom" timestamp="1596816341019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596665747667" />
-    <state width="1237" height="143" key="GridCell.Tab.0.center" timestamp="1596665747666">
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596816341019" />
+    <state width="1237" height="154" key="GridCell.Tab.0.center" timestamp="1596816341019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596665747666" />
-    <state width="1237" height="143" key="GridCell.Tab.0.left" timestamp="1596665747666">
+    <state width="1237" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596816341019" />
+    <state width="1237" height="154" key="GridCell.Tab.0.left" timestamp="1596816341018">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596665747666" />
-    <state width="1237" height="143" key="GridCell.Tab.0.right" timestamp="1596665747667">
+    <state width="1237" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596816341018" />
+    <state width="1237" height="154" key="GridCell.Tab.0.right" timestamp="1596816341019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596665747667" />
+    <state width="1237" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596816341019" />
     <state width="1237" height="200" key="GridCell.Tab.1.bottom" timestamp="1595940245466">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -196,6 +346,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="200" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595940245466" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1596811474979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1596811474979" />
     <state x="456" y="275" key="ReplaceDuplicatesPrompt" timestamp="1595944424223">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -208,18 +362,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595949112129" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596620814939">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596665858773">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596620814939" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596665858773" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595947836137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1595947836137" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1595424469490">
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1596708265233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1595424469490" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596708265233" />
+    <state x="412" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596810232503">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1596810232503" />
     <state x="371" y="96" width="538" height="495" key="extract.method.dialog" timestamp="1596486165996">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
